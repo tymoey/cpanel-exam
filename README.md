@@ -1,5 +1,6 @@
-cPanel
-cPanel & WHM Administrator (CWA) - Core Curriculum & cPanel & WHM Systems Administrator I (CWSA-1) - Core Curriculum
+#cPanel
+
+#cPanel & WHM Administrator (CWA) - Core Curriculum & cPanel & WHM Systems Administrator I (CWSA-1) - Core Curriculum
 
 Correct Answer of cpanel certification:-
 Within which of the following WHM interfaces would you be able to add SPF and DKIM records to an account? WHM Home >> Account Functions >> Modify Account
